@@ -82,7 +82,6 @@ public class DefaultDataSourceFactory implements DataSourceFactory {
 			    
 			    log.debug(CommonLogLocalizer.format("003043", driverClassName, url));
 			    
-			    
 			    org.apache.commons.dbcp2.BasicDataSource dbcp = new org.apache.commons.dbcp2.BasicDataSource();
 			    dbcp.setDriverClassName(driverClassName);
 			    dbcp.setUrl(url);
