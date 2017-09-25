@@ -11,7 +11,8 @@ OJDBC5 11.1.0<br/>
 FREEMARKER 2.3.25<br/>
 DOM4J 1.6<br/>
 XML-APIS 1.0.B2<br/>
-GUAVA 20.0<br/>
+GUAVA 20.0 ( support 1.6 , 1.7) <br/>
+<i>2.1 required java 1.8 </i><br/>
 SLFJ-API 1.7.22<br/>
 SLDJ-LOG4J12 1.7.22<br/>
 LOG4J-1.2.14<br/>
